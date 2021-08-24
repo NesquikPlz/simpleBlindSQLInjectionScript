@@ -34,7 +34,7 @@ binary search 부분은 case 고려할게 많아서 잘못 수정하면 귀찮�
 * 웹페이지 URL이랑 비번 알고싶은 아이디 시키는 대로 입력하면 됨<br>
 * 결과는 다음과 같다.<br>
 <br>
-![image](https://user-images.githubusercontent.com/77532413/130667776-894c4da0-43be-4a29-95f4-34d740eb6d69.png)
+![image](https://user-images.githubusercontent.com/77532413/130668670-5ff36e43-84ff-4c80-be76-f779df7793a7.png)
 <br>
 다음과 같이 비번 알려줌
 <br><br>
