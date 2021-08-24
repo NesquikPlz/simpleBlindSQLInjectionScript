@@ -30,11 +30,10 @@ binary search 부분은 case 고려할게 많아서 잘못 수정하면 귀찮�
 <br><br>
 사용방법은 다음과 같음
 <br>
-* 코드 다운받아서 cmd로 실행시킴 (Python3 기반이고 numpy랑 request 라이브러리 필요)<br>
+* 코드 다운받아서 cmd로 실행시킴 (Python3 기반이고 numpy랑 requests 라이브러리 필요)<br>
 * 웹페이지 URL이랑 비번 알고싶은 아이디 시키는 대로 입력하면 됨<br>
 * 결과는 다음과 같다.<br>
 <br>
-![image](https://user-images.githubusercontent.com/77532413/130668670-5ff36e43-84ff-4c80-be76-f779df7793a7.png)
-<br>
-다음과 같이 비번 알려줌
+![image](https://user-images.githubusercontent.com/77532413/130668949-a1391416-ad45-4c01-9e80-9065166a85f7.png)
 <br><br>
+다음과 같이 비밀번호가 나옴(비번이 길다면 좀 기다려야 함)
